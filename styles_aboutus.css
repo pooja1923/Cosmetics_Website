@@ -1,0 +1,69 @@
+
+h2 
+{
+text-align: center;
+}
+
+.img1 
+{
+float: left;
+border-radius: 60%;
+} 
+.img2 
+{
+float: right;
+border-radius: 60%;
+}  
+
+.standard
+{
+  padding: 100px;
+}
+
+.img2_info
+{
+  float: left;
+  margin-top: 80px;
+}
+.perfection
+{
+  padding-top: 15%;
+}
+.container-fluid
+{
+    padding-top: 30px ;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+/* 
+.div1
+{
+padding: 90px;
+border: 1px solid #fbeeff;
+} */
+
+.profile
+{
+  position: static;
+
+}
+body
+{
+  background-color: #fbeeff;
+  font-family: 'Nanum Myeongjo', serif;
+}
+
+.social-icon
+{
+    color: black;
+    font-size: 1.5rem;
+    padding: 10px;
+    margin: 20px 5px ;
+} 
+
+#footer
+{
+    background-color: #fff;
+    text-align: center;
+    color: #8f8f8f;
+}

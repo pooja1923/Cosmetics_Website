@@ -1,0 +1,201 @@
+/* body{
+    background-color:#dcdcdc;    
+    } */
+    h3
+    {
+        font-family: 'Nanum Myeongjo', serif;
+        color: #7f2549;
+    }
+    h2 
+    {
+    text-align: center;
+    }
+  
+    .img1 
+    {
+    float: left;
+    border-radius: 60%;
+    } 
+    .img2 
+    {
+    float: right;
+    border-radius: 60%;
+    }  
+    
+    b
+    {
+    font-family: "Sofia";
+    font-size: 30px;
+    }
+
+    .container
+    {
+        padding-top: 20px;
+    }
+    
+  .navbar-brand
+  {
+      font-size: 1.5rem;
+      font-weight: bold;
+  }
+  
+  .nav-item
+  {
+      padding: 0 18px ;
+  }
+  
+  .nav-link
+  {
+      font-size: 1.2rem; 
+      font-family: 'Montserrat-light';
+  }
+  
+    .p2{
+    font-family:Bradley Hand ITC;
+    font-style: normal;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+  
+  }
+  .div1
+  {
+    padding: 90px;
+    border: 1px solid #fbeeff;
+  }
+    body
+  {
+      background-color: #fbeeff;  
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #footer
+  {
+      background-color: #fff;
+      text-align: center;
+      color: #8f8f8f;
+  }
+    .total-like-user-main a {
+        display: inline-block;
+        margin: 0 -17px 0 0;
+    }
+    .total-like {
+        border: 1px solid;
+        border-radius: 50px;
+        display: inline-block;
+        font-weight: 500;
+        height: 34px;
+        line-height: 33px;
+        padding: 0 13px;
+        vertical-align: top;
+    }
+  
+    .graph-star-rating-header .star-rating {
+        font-size: 17px;
+    }
+    .progress {
+        background: #f2f4f8 none repeat scroll 0 0;
+        border-radius: 0;
+        height: 30px;
+    }
+    .rating-list {
+        display: inline-flex;
+        margin-bottom: 15px;
+        width: 100%;
+    }
+    .rating-list-left {
+        height: 16px;
+        line-height: 29px;
+        width: 10%;
+    }
+    .rating-list-center {
+        width: 80%;
+    }
+    .rating-list-right {
+        line-height: 29px;
+        text-align: right;
+        width: 10%;
+    }
+
+    .text-black {
+        color: #000000;
+    }
+    .icon-overlap {
+        bottom: -23px;
+        font-size: 74px;
+        opacity: 0.23;
+        position: absolute;
+        right: -32px;
+    }
+  
+ 
+    .reviews-members .media .mr-3 {
+        width: 56px;
+        height: 56px;
+        object-fit: cover;
+    }
+    .rounded-pill {
+        border-radius: 50rem!important;
+    }
+    .total-like-user {
+        border: 2px solid #fff;
+        height: 34px;
+        box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075)!important;
+        width: 34px;
+    }
+    .total-like-user-main a {
+        display: inline-block;
+        margin: 0 -17px 0 0;
+    }
+    .total-like {
+        border: 1px solid;
+        border-radius: 50px;
+        display: inline-block;
+        font-weight: 500;
+        height: 34px;
+        line-height: 33px;
+        padding: 0 13px;
+        vertical-align: top;
+    }
+ 
+    .graph-star-rating-header .star-rating {
+        font-size: 17px;
+    }
+    .progress {
+        background: #f2f4f8 none repeat scroll 0 0;
+        border-radius: 0;
+        height: 30px;
+    }
+    .rating-list {
+        display: inline-flex;
+        margin-bottom: 15px;
+        width: 100%;
+    }
+    .rating-list-left {
+        height: 16px;
+        line-height: 29px;
+        width: 10%;
+    }
+    .rating-list-center {
+        width: 80%;
+    }
+    .rating-list-right {
+        line-height: 29px;
+        text-align: right;
+        width: 10%;
+    }
+ 
+    .progress {
+        background: #f2f4f8 none repeat scroll 0 0;
+        border-radius: 0;
+        height: 30px;
+    }
+    
+    a
+    {
+        text-decoration: none;
+    }
+    
+    .icofont-ui-rating
+    {
+        color: gold;
+    }
